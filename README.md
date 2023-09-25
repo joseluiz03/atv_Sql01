@@ -112,8 +112,8 @@ select distinct pais from tabela_paises order by pais;
 
 
 
-EXPLICAÇÃO:
--- 1. Selecione todos os dados dos países da tabela_paises;
+## EXPLICAÇÃO:
+*1. Selecione todos os dados dos países da tabela_paises;*
 -- Esta consulta retorna todos os registros da tabela_paises, exibindo informações completas sobre todos os países.
 
 -- 2. Selecione todas as cidades cujo país seja Brazil;
