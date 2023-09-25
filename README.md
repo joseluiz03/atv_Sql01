@@ -1,5 +1,4 @@
 # atv_Sql01
-Bom nessa atividade foi feita pello postgres aonde o professor Adeilson repassou uma linha de cód e resolver as questões no banco de dados SQL 
 
 EXPLICAÇÃO:
 -- 1. Selecione todos os dados dos países da tabela_paises;
@@ -36,4 +35,4 @@ EXPLICAÇÃO:
 -- 11. Ordene os nomes dos países sem repetição em ordem alfabética;
 -- Esta consulta lista os nomes únicos dos países em ordem alfabética, excluindo duplicatas da tabela_paises.
 
-
+turma: https://www.instagram.com/2b_informatica_2023/?igshid=MmU2YjMzNjRlOQ%3D%3D
