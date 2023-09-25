@@ -1,5 +1,24 @@
 # atv_Sql01
 
+
+## Qst1:
+Selecione todos os dados dos países da tabela_paises;
+```sql
+select * from tabela_paises
+```
+![image](https://github.com/joseluiz03/atv_Sql01/assets/116982553/eda2ffa2-6a92-415c-aa7a-aa70b80c8d5f)
+
+
+
+
+
+
+
+
+
+
+
+
 EXPLICAÇÃO:
 -- 1. Selecione todos os dados dos países da tabela_paises;
 -- Esta consulta retorna todos os registros da tabela_paises, exibindo informações completas sobre todos os países.
